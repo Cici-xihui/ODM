@@ -1,5 +1,4 @@
 
-import MyAlgo.convergence.LVQ_weight_reservA_errors;
 import com.github.javacliparser.FileOption;
 import com.github.javacliparser.IntOption;
 import com.yahoo.labs.samoa.instances.Prediction;
